@@ -1,0 +1,22 @@
+header {
+    background-color: #333; /* Gris oscuro */
+    padding: 20px;
+}
+
+body {
+    background-color: #444; /* Gris un poco más claro que el encabezado */
+}
+
+h3 {
+    color: #ccc; /* Gris claro */
+    font-family: Arial, sans-serif; /* Fuente sans-serif moderna */
+}
+
+.card-body {
+    color: #eee; /* Blanco cremoso */
+    font-family: Arial, sans-serif;
+    font-size: 20px; /* Tamaño de fuente un poco más grande */
+    border: 1px solid #444; /* Gris más oscuro */
+    background-color: #222; /* Gris oscuro */
+    padding: 20px;
+}
